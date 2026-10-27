@@ -1,0 +1,335 @@
+X=100000000 k=3..100
+NEAR k=3 n=10 m=13
+NEAR k=3 n=11 m=14
+NEAR k=3 n=12 m=15
+NEAR k=3 n=13 m=16
+NEAR k=3 n=14 m=17
+k=3 windows=99999998 dupkeys=31330 bigpart_pairs=446145 size_ok=19221 solutions=0 (11.1s)
+NEAR k=4 n=5 m=9
+NEAR k=4 n=6 m=10
+NEAR k=4 n=7 m=11
+NEAR k=4 n=7 m=12
+NEAR k=4 n=8 m=12
+k=4 windows=99999997 dupkeys=12662 bigpart_pairs=51516 size_ok=5892 solutions=0 (11.1s)
+NEAR k=6 n=2 m=8
+NEAR k=6 n=3 m=9
+NEAR k=6 n=3 m=10
+NEAR k=6 n=4 m=10
+NEAR k=6 n=4 m=11
+k=6 windows=99999995 dupkeys=13515 bigpart_pairs=9094 size_ok=3132 solutions=0 (10.9s)
+NEAR k=5 n=3 m=8
+NEAR k=5 n=4 m=9
+NEAR k=5 n=4 m=10
+NEAR k=5 n=5 m=10
+NEAR k=5 n=5 m=11
+k=5 windows=99999996 dupkeys=12316 bigpart_pairs=17916 size_ok=3541 solutions=0 (11.1s)
+NEAR k=8 n=1 m=9
+NEAR k=8 n=1 m=10
+NEAR k=8 n=2 m=10
+NEAR k=8 n=2 m=11
+NEAR k=8 n=2 m=12
+k=8 windows=99999993 dupkeys=13659 bigpart_pairs=5317 size_ok=3030 solutions=0 (10.8s)
+NEAR k=7 n=2 m=9
+NEAR k=7 n=2 m=10
+NEAR k=7 n=3 m=10
+NEAR k=7 n=3 m=11
+NEAR k=7 n=3 m=12
+k=7 windows=99999994 dupkeys=12506 bigpart_pairs=6493 size_ok=3101 solutions=0 (10.9s)
+NEAR k=9 n=1 m=10
+NEAR k=9 n=1 m=11
+NEAR k=9 n=1 m=12
+NEAR k=9 n=2 m=11
+NEAR k=9 n=2 m=12
+k=9 windows=99999992 dupkeys=13541 bigpart_pairs=4381 size_ok=2919 solutions=0 (11.0s)
+NEAR k=10 n=0 m=10
+NEAR k=10 n=0 m=11
+NEAR k=10 n=1 m=11
+NEAR k=10 n=1 m=12
+NEAR k=10 n=1 m=13
+k=10 windows=99999991 dupkeys=14316 bigpart_pairs=3699 size_ok=2716 solutions=0 (11.2s)
+NEAR k=11 n=0 m=11
+NEAR k=11 n=0 m=12
+NEAR k=11 n=0 m=13
+NEAR k=11 n=1 m=12
+NEAR k=11 n=1 m=13
+k=11 windows=99999990 dupkeys=12890 bigpart_pairs=3437 size_ok=2640 solutions=0 (11.1s)
+NEAR k=12 n=0 m=12
+NEAR k=12 n=0 m=13
+NEAR k=12 n=0 m=14
+NEAR k=12 n=0 m=15
+NEAR k=12 n=0 m=16
+k=12 windows=99999989 dupkeys=15333 bigpart_pairs=3181 size_ok=2545 solutions=0 (11.2s)
+NEAR k=13 n=0 m=13
+NEAR k=13 n=0 m=14
+NEAR k=13 n=0 m=15
+NEAR k=13 n=0 m=16
+NEAR k=13 n=0 m=17
+k=13 windows=99999988 dupkeys=12935 bigpart_pairs=2938 size_ok=2434 solutions=0 (11.3s)
+NEAR k=14 n=0 m=14
+NEAR k=14 n=0 m=15
+NEAR k=14 n=0 m=16
+NEAR k=14 n=0 m=17
+NEAR k=14 n=0 m=18
+k=14 windows=99999987 dupkeys=14672 bigpart_pairs=2701 size_ok=2310 solutions=0 (11.3s)
+NEAR k=15 n=0 m=15
+NEAR k=15 n=0 m=16
+NEAR k=15 n=0 m=17
+NEAR k=15 n=0 m=18
+NEAR k=15 n=0 m=19
+k=15 windows=99999986 dupkeys=15166 bigpart_pairs=2556 size_ok=2244 solutions=0 (11.1s)
+NEAR k=16 n=0 m=16
+NEAR k=16 n=0 m=17
+NEAR k=16 n=0 m=18
+NEAR k=16 n=0 m=19
+NEAR k=16 n=0 m=20
+k=16 windows=99999985 dupkeys=14867 bigpart_pairs=2415 size_ok=2170 solutions=0 (11.1s)
+NEAR k=17 n=0 m=17
+NEAR k=17 n=0 m=18
+NEAR k=17 n=0 m=19
+NEAR k=17 n=0 m=20
+NEAR k=17 n=0 m=21
+k=17 windows=99999984 dupkeys=13084 bigpart_pairs=2278 size_ok=2090 solutions=0 (10.9s)
+NEAR k=18 n=0 m=18
+NEAR k=18 n=0 m=19
+NEAR k=18 n=0 m=20
+NEAR k=18 n=0 m=21
+NEAR k=18 n=0 m=22
+k=18 windows=99999983 dupkeys=15849 bigpart_pairs=2145 size_ok=2004 solutions=0 (11.3s)
+NEAR k=19 n=0 m=19
+NEAR k=19 n=0 m=20
+NEAR k=19 n=0 m=21
+NEAR k=19 n=0 m=22
+NEAR k=19 n=0 m=23
+k=19 windows=99999982 dupkeys=13115 bigpart_pairs=2016 size_ok=1915 solutions=0 (11.0s)
+NEAR k=20 n=0 m=20
+NEAR k=20 n=0 m=21
+NEAR k=20 n=0 m=22
+NEAR k=20 n=0 m=23
+NEAR k=20 n=0 m=24
+k=20 windows=99999981 dupkeys=16158 bigpart_pairs=1891 size_ok=1820 solutions=0 (11.4s)
+NEAR k=21 n=0 m=21
+NEAR k=21 n=0 m=22
+NEAR k=21 n=0 m=23
+NEAR k=21 n=0 m=24
+NEAR k=21 n=0 m=25
+k=21 windows=99999980 dupkeys=15529 bigpart_pairs=1770 size_ok=1725 solutions=0 (11.5s)
+NEAR k=22 n=0 m=22
+NEAR k=22 n=0 m=23
+NEAR k=22 n=0 m=24
+NEAR k=22 n=0 m=25
+NEAR k=22 n=0 m=26
+k=22 windows=99999979 dupkeys=15034 bigpart_pairs=1653 size_ok=1627 solutions=0 (11.3s)
+NEAR k=23 n=0 m=23
+NEAR k=23 n=0 m=24
+NEAR k=23 n=0 m=25
+NEAR k=23 n=0 m=26
+NEAR k=23 n=0 m=27
+k=23 windows=99999978 dupkeys=13167 bigpart_pairs=1540 size_ok=1528 solutions=0 (11.2s)
+NEAR k=24 n=0 m=24
+NEAR k=24 n=0 m=25
+NEAR k=24 n=0 m=26
+NEAR k=24 n=0 m=27
+NEAR k=24 n=0 m=28
+k=24 windows=99999977 dupkeys=16957 bigpart_pairs=1431 size_ok=1426 solutions=0 (10.8s)
+NEAR k=25 n=0 m=25
+NEAR k=25 n=0 m=26
+NEAR k=25 n=0 m=27
+NEAR k=25 n=0 m=28
+NEAR k=25 n=0 m=29
+k=25 windows=99999976 dupkeys=14501 bigpart_pairs=1326 size_ok=1326 solutions=0 (11.6s)
+NEAR k=26 n=0 m=26
+NEAR k=26 n=0 m=27
+NEAR k=26 n=0 m=28
+NEAR k=26 n=0 m=29
+NEAR k=26 n=0 m=30
+k=26 windows=99999975 dupkeys=15089 bigpart_pairs=1225 size_ok=1225 solutions=0 (11.3s)
+NEAR k=28 n=0 m=28
+NEAR k=28 n=0 m=29
+NEAR k=28 n=0 m=30
+NEAR k=28 n=0 m=31
+NEAR k=28 n=0 m=32
+k=28 windows=99999973 dupkeys=16565 bigpart_pairs=1035 size_ok=1035 solutions=0 (11.4s)
+NEAR k=27 n=0 m=27
+NEAR k=27 n=0 m=28
+NEAR k=27 n=0 m=29
+NEAR k=27 n=0 m=30
+NEAR k=27 n=0 m=31
+k=27 windows=99999974 dupkeys=15175 bigpart_pairs=1128 size_ok=1128 solutions=0 (11.6s)
+NEAR k=29 n=0 m=29
+NEAR k=29 n=0 m=30
+NEAR k=29 n=0 m=31
+NEAR k=29 n=0 m=32
+NEAR k=29 n=0 m=33
+k=29 windows=99999972 dupkeys=13170 bigpart_pairs=946 size_ok=946 solutions=0 (10.9s)
+NEAR k=30 n=0 m=30
+NEAR k=30 n=0 m=31
+NEAR k=30 n=0 m=32
+NEAR k=30 n=0 m=33
+NEAR k=30 n=0 m=34
+k=30 windows=99999971 dupkeys=17744 bigpart_pairs=861 size_ok=861 solutions=0 (11.0s)
+NEAR k=31 n=0 m=31
+NEAR k=31 n=0 m=32
+NEAR k=31 n=0 m=33
+NEAR k=31 n=0 m=34
+NEAR k=31 n=0 m=35
+k=31 windows=99999970 dupkeys=13176 bigpart_pairs=780 size_ok=780 solutions=0 (11.1s)
+NEAR k=32 n=0 m=32
+NEAR k=32 n=0 m=33
+NEAR k=32 n=0 m=34
+NEAR k=32 n=0 m=35
+NEAR k=32 n=0 m=36
+k=32 windows=99999969 dupkeys=15916 bigpart_pairs=703 size_ok=703 solutions=0 (11.2s)
+NEAR k=33 n=0 m=33
+NEAR k=33 n=0 m=34
+NEAR k=33 n=0 m=35
+NEAR k=33 n=0 m=36
+NEAR k=33 n=0 m=37
+k=33 windows=99999968 dupkeys=15982 bigpart_pairs=630 size_ok=630 solutions=0 (11.0s)
+NEAR k=34 n=0 m=34
+NEAR k=34 n=0 m=35
+NEAR k=34 n=0 m=36
+NEAR k=34 n=0 m=37
+NEAR k=34 n=0 m=38
+k=34 windows=99999967 dupkeys=15232 bigpart_pairs=561 size_ok=561 solutions=0 (10.7s)
+NEAR k=35 n=0 m=35
+NEAR k=35 n=0 m=36
+NEAR k=35 n=0 m=37
+NEAR k=35 n=0 m=38
+NEAR k=35 n=0 m=39
+k=35 windows=99999966 dupkeys=16403 bigpart_pairs=496 size_ok=496 solutions=0 (10.7s)
+NEAR k=36 n=0 m=36
+NEAR k=36 n=0 m=37
+NEAR k=36 n=0 m=38
+NEAR k=36 n=0 m=39
+NEAR k=36 n=0 m=40
+k=36 windows=99999965 dupkeys=17869 bigpart_pairs=435 size_ok=435 solutions=0 (10.9s)
+NEAR k=37 n=0 m=37
+NEAR k=37 n=0 m=38
+NEAR k=37 n=0 m=39
+NEAR k=37 n=0 m=40
+NEAR k=37 n=0 m=41
+k=37 windows=99999964 dupkeys=13166 bigpart_pairs=378 size_ok=378 solutions=0 (11.2s)
+NEAR k=38 n=0 m=38
+NEAR k=38 n=0 m=39
+NEAR k=38 n=0 m=40
+NEAR k=38 n=0 m=41
+NEAR k=38 n=0 m=42
+k=38 windows=99999963 dupkeys=15335 bigpart_pairs=325 size_ok=325 solutions=0 (11.6s)
+NEAR k=39 n=0 m=39
+NEAR k=39 n=0 m=40
+NEAR k=39 n=0 m=41
+NEAR k=39 n=0 m=42
+NEAR k=39 n=0 m=43
+k=39 windows=99999962 dupkeys=15982 bigpart_pairs=276 size_ok=276 solutions=0 (12.2s)
+NEAR k=40 n=0 m=40
+NEAR k=40 n=0 m=41
+NEAR k=40 n=0 m=42
+NEAR k=40 n=0 m=43
+NEAR k=40 n=0 m=44
+k=40 windows=99999961 dupkeys=17855 bigpart_pairs=231 size_ok=231 solutions=0 (11.7s)
+NEAR k=42 n=0 m=42
+NEAR k=42 n=0 m=43
+NEAR k=42 n=0 m=44
+NEAR k=42 n=0 m=45
+NEAR k=42 n=0 m=46
+k=42 windows=99999959 dupkeys=18143 bigpart_pairs=153 size_ok=153 solutions=0 (11.2s)
+NEAR k=41 n=0 m=41
+NEAR k=41 n=0 m=42
+NEAR k=41 n=0 m=43
+NEAR k=41 n=0 m=44
+NEAR k=41 n=0 m=45
+k=41 windows=99999960 dupkeys=13187 bigpart_pairs=190 size_ok=190 solutions=0 (11.6s)
+NEAR k=44 n=0 m=44
+NEAR k=44 n=0 m=45
+NEAR k=44 n=0 m=46
+NEAR k=44 n=0 m=47
+NEAR k=44 n=0 m=48
+NEAR k=43 n=0 m=43
+NEAR k=43 n=0 m=44
+NEAR k=43 n=0 m=45
+NEAR k=43 n=0 m=46
+NEAR k=43 n=0 m=47
+k=44 windows=99999957 dupkeys=16997 bigpart_pairs=91 size_ok=91 solutions=0 (11.7s)
+k=43 windows=99999958 dupkeys=13138 bigpart_pairs=120 size_ok=120 solutions=0 (11.9s)
+NEAR k=45 n=0 m=45
+NEAR k=45 n=0 m=46
+NEAR k=45 n=0 m=47
+NEAR k=45 n=0 m=48
+NEAR k=45 n=0 m=49
+k=45 windows=99999956 dupkeys=17638 bigpart_pairs=66 size_ok=66 solutions=0 (11.3s)
+NEAR k=46 n=0 m=46
+NEAR k=46 n=0 m=47
+NEAR k=46 n=0 m=48
+NEAR k=46 n=0 m=49
+NEAR k=46 n=0 m=50
+k=46 windows=99999955 dupkeys=15405 bigpart_pairs=45 size_ok=45 solutions=0 (12.1s)
+NEAR k=48 n=0 m=48
+NEAR k=48 n=0 m=49
+NEAR k=48 n=0 m=50
+NEAR k=48 n=0 m=51
+NEAR k=48 n=0 m=52
+k=48 windows=99999953 dupkeys=18332 bigpart_pairs=15 size_ok=15 solutions=0 (11.6s)
+NEAR k=47 n=0 m=47
+NEAR k=47 n=0 m=48
+NEAR k=47 n=0 m=49
+NEAR k=47 n=0 m=50
+NEAR k=47 n=0 m=51
+k=47 windows=99999954 dupkeys=13229 bigpart_pairs=29 size_ok=29 solutions=0 (12.5s)
+NEAR k=50 n=0 m=50
+k=50 windows=99999951 dupkeys=16894 bigpart_pairs=1 size_ok=1 solutions=0 (11.0s)
+NEAR k=49 n=0 m=49
+NEAR k=49 n=0 m=50
+NEAR k=49 n=0 m=51
+NEAR k=49 n=1 m=50
+NEAR k=49 n=1 m=51
+k=49 windows=99999952 dupkeys=14863 bigpart_pairs=6 size_ok=6 solutions=0 (11.1s)
+k=51 windows=99999950 dupkeys=16134 bigpart_pairs=0 size_ok=0 solutions=0 (11.2s)
+k=52 windows=99999949 dupkeys=17063 bigpart_pairs=0 size_ok=0 solutions=0 (11.2s)
+k=54 windows=99999947 dupkeys=17674 bigpart_pairs=0 size_ok=0 solutions=0 (11.2s)
+k=53 windows=99999948 dupkeys=13169 bigpart_pairs=0 size_ok=0 solutions=0 (11.6s)
+k=55 windows=99999946 dupkeys=16787 bigpart_pairs=0 size_ok=0 solutions=0 (10.9s)
+k=56 windows=99999945 dupkeys=18256 bigpart_pairs=0 size_ok=0 solutions=0 (10.9s)
+k=57 windows=99999944 dupkeys=16212 bigpart_pairs=0 size_ok=0 solutions=0 (11.1s)
+k=58 windows=99999943 dupkeys=15448 bigpart_pairs=0 size_ok=0 solutions=0 (11.1s)
+k=59 windows=99999942 dupkeys=13108 bigpart_pairs=0 size_ok=0 solutions=0 (11.3s)
+k=60 windows=99999941 dupkeys=19949 bigpart_pairs=0 size_ok=0 solutions=0 (11.3s)
+k=62 windows=99999939 dupkeys=15447 bigpart_pairs=0 size_ok=0 solutions=0 (11.3s)
+k=61 windows=99999940 dupkeys=13146 bigpart_pairs=0 size_ok=0 solutions=0 (11.9s)
+k=64 windows=99999937 dupkeys=16757 bigpart_pairs=0 size_ok=0 solutions=0 (11.3s)
+k=63 windows=99999938 dupkeys=18109 bigpart_pairs=0 size_ok=0 solutions=0 (11.8s)
+k=65 windows=99999936 dupkeys=16810 bigpart_pairs=0 size_ok=0 solutions=0 (10.9s)
+k=66 windows=99999935 dupkeys=18606 bigpart_pairs=0 size_ok=0 solutions=0 (10.8s)
+k=67 windows=99999934 dupkeys=13178 bigpart_pairs=0 size_ok=0 solutions=0 (11.1s)
+k=68 windows=99999933 dupkeys=17229 bigpart_pairs=0 size_ok=0 solutions=0 (11.0s)
+k=69 windows=99999932 dupkeys=16254 bigpart_pairs=0 size_ok=0 solutions=0 (10.9s)
+k=70 windows=99999931 dupkeys=19170 bigpart_pairs=0 size_ok=0 solutions=0 (10.8s)
+k=71 windows=99999930 dupkeys=13101 bigpart_pairs=0 size_ok=0 solutions=0 (10.8s)
+k=72 windows=99999929 dupkeys=19705 bigpart_pairs=0 size_ok=0 solutions=0 (10.9s)
+k=73 windows=99999928 dupkeys=13130 bigpart_pairs=0 size_ok=0 solutions=0 (10.9s)
+k=74 windows=99999927 dupkeys=15355 bigpart_pairs=0 size_ok=0 solutions=0 (11.0s)
+k=75 windows=99999926 dupkeys=17847 bigpart_pairs=0 size_ok=0 solutions=0 (10.6s)
+k=76 windows=99999925 dupkeys=17247 bigpart_pairs=0 size_ok=0 solutions=0 (10.8s)
+k=77 windows=99999924 dupkeys=17275 bigpart_pairs=0 size_ok=0 solutions=0 (10.8s)
+k=78 windows=99999923 dupkeys=18611 bigpart_pairs=0 size_ok=0 solutions=0 (10.8s)
+k=79 windows=99999922 dupkeys=13086 bigpart_pairs=0 size_ok=0 solutions=0 (11.1s)
+k=80 windows=99999921 dupkeys=19277 bigpart_pairs=0 size_ok=0 solutions=0 (11.2s)
+k=81 windows=99999920 dupkeys=16457 bigpart_pairs=0 size_ok=0 solutions=0 (10.9s)
+k=82 windows=99999919 dupkeys=15395 bigpart_pairs=0 size_ok=0 solutions=0 (11.3s)
+k=83 windows=99999918 dupkeys=13106 bigpart_pairs=0 size_ok=0 solutions=0 (10.9s)
+k=84 windows=99999917 dupkeys=20396 bigpart_pairs=0 size_ok=0 solutions=0 (10.9s)
+k=85 windows=99999916 dupkeys=17047 bigpart_pairs=0 size_ok=0 solutions=0 (11.0s)
+k=86 windows=99999915 dupkeys=15351 bigpart_pairs=0 size_ok=0 solutions=0 (11.3s)
+k=87 windows=99999914 dupkeys=16262 bigpart_pairs=0 size_ok=0 solutions=0 (11.2s)
+k=88 windows=99999913 dupkeys=18731 bigpart_pairs=0 size_ok=0 solutions=0 (11.0s)
+k=89 windows=99999912 dupkeys=13077 bigpart_pairs=0 size_ok=0 solutions=0 (11.2s)
+k=90 windows=99999911 dupkeys=20514 bigpart_pairs=0 size_ok=0 solutions=0 (11.0s)
+k=91 windows=99999910 dupkeys=17282 bigpart_pairs=0 size_ok=0 solutions=0 (11.0s)
+k=92 windows=99999909 dupkeys=17292 bigpart_pairs=0 size_ok=0 solutions=0 (11.3s)
+k=93 windows=99999908 dupkeys=16289 bigpart_pairs=0 size_ok=0 solutions=0 (11.4s)
+k=94 windows=99999907 dupkeys=15420 bigpart_pairs=0 size_ok=0 solutions=0 (11.3s)
+k=95 windows=99999906 dupkeys=17094 bigpart_pairs=0 size_ok=0 solutions=0 (11.0s)
+k=96 windows=99999905 dupkeys=19548 bigpart_pairs=0 size_ok=0 solutions=0 (11.0s)
+k=97 windows=99999904 dupkeys=13020 bigpart_pairs=0 size_ok=0 solutions=0 (11.3s)
+k=98 windows=99999903 dupkeys=17398 bigpart_pairs=0 size_ok=0 solutions=0 (11.2s)
+k=99 windows=99999902 dupkeys=18531 bigpart_pairs=0 size_ok=0 solutions=0 (11.3s)
+k=100 windows=99999901 dupkeys=19088 bigpart_pairs=0 size_ok=0 solutions=0 (11.2s)
