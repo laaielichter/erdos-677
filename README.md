@@ -5,7 +5,7 @@
 ## Results
 
 1. **Search.** For every $3\le k\le 100$, there is no pair $0\le n<m$ with $m\ge n+k$, $m+k\le 10^8$ and $M(n,k)=M(m,k)$. (For $k\le 2$ the statement is trivial.)
-2. **The case $k=3$ is settled.** $M(n,3)\ne M(m,3)$ for all $m\ge n+3$. The case reduces to $b(b+1)(b+2)=2a(a+1)(a+2)$. Its only positive solution is $(a,b)=(3,4)$ (T. H. Chan, [arXiv:2408.01306](https://arxiv.org/abs/2408.01306), Period. Math. Hungar. 2025). That solution gives $M(2,3)=M(3,3)=60$, which has $m-n=1$. A short independent proof, reducing to the Thue equations $p^3-2q^3\in\{-1,-2,-3,-6\}$, is in [`forum_post.md`](forum_post.md) and is checked by [`k3_proof_check.py`](k3_proof_check.py).
+2. **The case $k=3$ is settled.** $M(n,3)\ne M(m,3)$ for all $m\ge n+3$. The case reduces to $b(b+1)(b+2)=2a(a+1)(a+2)$. Its only positive solution is $(a,b)=(3,4)$ (T. H. Chan, [arXiv:2408.01306](https://arxiv.org/abs/2408.01306), Period. Math. Hungar. 2025). That solution gives $M(2,3)=M(3,3)=60$, which has $m-n=1$. A short independent proof, reducing to the Thue equations $p^3-2q^3\in\{-1,-2,-3,-6\}$, is in [`WRITEUP.md`](WRITEUP.md) and is checked by [`k3_proof_check.py`](k3_proof_check.py).
 
 ## Files
 
@@ -15,7 +15,7 @@
 | `check_small.py` | Slow, independent Python check for small ranges, used to cross-check the C program. |
 | `k3_proof_check.py` | Solves the Thue equations with PARI (unconditional) and finishes the $k=3$ proof. |
 | `run_1e8.txt` | Output of the full run ($m+k\le 10^8$, $3\le k\le 100$). |
-| `forum_post.md` | Write-up posted on the erdosproblems.com forum. |
+| `WRITEUP.md` | Short write-up of both results. |
 
 ## Reproduce
 
